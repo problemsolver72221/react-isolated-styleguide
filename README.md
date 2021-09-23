@@ -27,4 +27,4 @@ sections: [
 -   Run `npm install`
 -   After installing, run `npm run styleguide` command.
 
-**Note:** If you add a new component to styleguide.config.js, you will need to re-run this command.
+**Note:** If you add a new component to styleguide.config.js, you will need to re-run `npm run styleguide` command.
